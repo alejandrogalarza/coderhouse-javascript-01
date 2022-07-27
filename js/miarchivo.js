@@ -40,7 +40,7 @@ do{
             let multiplicacion = edad*edad
             let multiplicacionPor5 = edad * 5
             let entreDos = edad / 2.0
-            alert(`sumade edad mas 10 : ${suma}\n multiplicacion de edad por si misma ${multiplicacion}\n multiplicacion de edad por 5 ${multiplicacionPor5}\n edad divido entre 2 ${entreDos}`)
+            alert(`sumade edad mas 10 : ${suma}\n multiplicacion de edad por si misma : ${multiplicacion}\n multiplicacion de edad por 5 : ${multiplicacionPor5}\nedad divido entre 2 : ${entreDos}`)
             break;
         case 4:
             alert("que tenga un buen dia ");
